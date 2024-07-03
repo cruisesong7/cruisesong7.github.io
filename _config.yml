@@ -21,8 +21,8 @@ repository               : "cruisesong7/cruisesong7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Cruise Song"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer Science at Georgia Tech"
   location         : "Atlanta, GA"
