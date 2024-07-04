@@ -18,19 +18,19 @@ Research Interests
 ======
 While I am still exploring what is out there in the world of mathematics and computer science, I have been broadly interested in formal methods, particularly the following topics:
 
-<div style="display: flex; align-items: flex-start;">
-  <ul style="flex: 1;">
-  <ul>
+<div style="display: flex;">
+  <ul style="flex: 1; margin-right: 20px;">
     <li>Formalization of Mathematics.</li>
     <li>Interactive Theorem Proving.</li>
     <li>Automated Reasoning.</li>
     <li>Autoformalization.</li>
-  </ul>
-   <figure style="margin-left: 20px; text-align: center;">
+ </ul>
+  <figure style="flex: 1; text-align: center;">
     <img src="images/Ramsey_W.png" alt="Ramsey (5,3) > 13" style="width: 50%;"/>
-    <figcaption>Ramsey (5,3) > 13. Visualized by a Lean Widget I wrote :D </figcaption>
+    <figcaption>Ramsey (5,3) > 13. Visualized by a Lean Widget I wrote :D</figcaption>
   </figure>
 </div>
+
 I am dedicated to formalizing mathematics by combining interactive theorem proving, automated reasoning, and autoformalization. I believe the formalization of mathematics will ultimately advance research in the mathematics community as well as the field of formal methods.
 
 News
