@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Cruise Song 宋聪言"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Cruise Song"
 description              : &description "Cruise not Tom"
 url                      : https://cruisesong7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
