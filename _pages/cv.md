@@ -1,25 +1,25 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 # redirect_from:
 #   - /resume
 ---
 Education
-------
+======
 
 * Ph.D. in Computer Science, Georgia Institute of Technology, 2029 (expected)
 * B.S. in Mathematics & Computer Science, University of Michigan, 2024
 
 Selected Coursework
-------
+======
 
 **Mathematics**: Logic, Real Analysis, Graph Theory, Linear Algebra, Machine Learning, Probability Theory, Number Theory, Numerical Methods  
 **Computer Science**: Automated Reasoning, Programming Language, Foundations of Computer Science, Natural Language Processing, Data Mining, Data Structure & Algorithm
 
 Research Experience 
-------
+======
 
 **The Polymath Jr Program**  
 *Undergraduate researcher* | *Advisor: Dr. David Narváez (Virginia Tech)* | *Jun. 2022 - Present*  
@@ -37,13 +37,13 @@ Research Experience
 - Read and solved exercises in *Software Foundations: Logical Foundations* by Benjamin Pierce.
 
 Publications
-------
+======
 
 - D. Narváez, **C. Song**, N. Zhang. “Formalizing Finite Ramsey Theory in Lean 4”.
 *Accepted to the 17th Conference on Intelligent Computer Mathematics (CICM 2024).*
 
 Teaching Experience
-------
+======
 
 **Course Assistant, Multivariable Calculus (Math 215)**  
 *University of Michigan* | *Winter 2023*
