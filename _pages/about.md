@@ -18,7 +18,7 @@ Research Interests
 ======
 While I am still exploring what is out there in the world of mathematics and computer science, I have been broadly interested in formal methods, particularly the following topics:
 
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start;">
   <ul style="flex: 1; margin-right: 20px;">
     <li>Formalization of Mathematics.</li>
     <li>Interactive Theorem Proving.</li>
