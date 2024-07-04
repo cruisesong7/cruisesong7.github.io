@@ -25,9 +25,9 @@ While I am still exploring what is out there in the world of mathematics and com
     <li>Automated Reasoning.</li>
     <li>Autoformalization.</li>
  </ul>
-  <figure style="flex: 1; text-align: center;">
-    <img src="images/Ramsey_W.png" alt="Ramsey (5,3) > 13" style="width: 50%;"/>
-    <figcaption>Ramsey (5,3) > 13. Visualized by a Lean Widget I wrote :D</figcaption>
+   <figure style="flex: 1; text-align: center;">
+    <img src="images/Ramsey_W.png" alt="Ramsey (5,3) > 13" style="height: 300px;"/>
+    <figcaption style="font-size: 12px; color: gray;"> R(5,3) > 13. Visualized by a Lean Widget I wrote :D</figcaption>
   </figure>
 </div>
 
