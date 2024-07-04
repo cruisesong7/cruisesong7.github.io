@@ -35,6 +35,6 @@ I am dedicated to formalizing mathematics by combining interactive theorem provi
 
 News
 ======
-- My first publication was accepted to [CICM 2024](https://cicm-conference.org/2024/cicm.php)!
+- My first publication "Formalizing Finite Ramsey Theory in Lean 4"  was accepted to [CICM 2024](https://cicm-conference.org/2024/cicm.php)!
 - I Attended the [Summer School on Formal Techniques](https://fm.csl.sri.com/SSFT24/), and I highly recommend my peers in this field to attend!
 
