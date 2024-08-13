@@ -12,11 +12,11 @@ Education
 * Ph.D. in Computer Science, Georgia Institute of Technology, 2029 (expected)
 * B.S. in Mathematics & Computer Science, University of Michigan, 2024
 
-Selected Coursework
+Publications
 ======
 
-**Mathematics**: Logic, Real Analysis, Graph Theory, Linear Algebra, Machine Learning, Probability Theory, Number Theory, Numerical Methods  
-**Computer Science**: Automated Reasoning, Programming Language, Foundations of Computer Science, Natural Language Processing, Data Mining, Data Structure & Algorithm
+- D. Narváez, **C. Song**, N. Zhang.[“Formalizing Finite Ramsey Theory in Lean 4”](https://link.springer.com/chapter/10.1007/978-3-031-66997-2_6).
+*Accepted to the 17th Conference on Intelligent Computer Mathematics (CICM 2024).* 
 
 Research Experience 
 ======
@@ -35,12 +35,6 @@ Research Experience
 - Extended the verification on Jacobi methods into Block Jacobi with parallel C program and error bounds derivation in floating-point arithmetic.
 - Ported the project into recently released Coq-Mathcomp2 and cleaned up the repetitive proofs by writing Ltac2.
 - Read and solved exercises in *Software Foundations: Logical Foundations* by Benjamin Pierce.
-
-Publications
-======
-
-- D. Narváez, **C. Song**, N. Zhang. “Formalizing Finite Ramsey Theory in Lean 4”.
-*Accepted to the 17th Conference on Intelligent Computer Mathematics (CICM 2024).*
 
 Teaching Experience
 ======
