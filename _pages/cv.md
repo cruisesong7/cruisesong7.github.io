@@ -8,18 +8,21 @@ author_profile: true
 ---
 Education
 ======
+___
 
 * Ph.D. in Computer Science, Georgia Institute of Technology, 2029 (expected)
 * B.S. in Mathematics & Computer Science, University of Michigan, 2024
 
 Publications
 ======
+___
 
 - D. Narváez, **C. Song**, N. Zhang.[“Formalizing Finite Ramsey Theory in Lean 4”](https://link.springer.com/chapter/10.1007/978-3-031-66997-2_6).
 *Accepted to the 17th Conference on Intelligent Computer Mathematics (CICM 2024).* 
 
 Research Experience 
 ======
+___
 
 **The Polymath Jr Program**  
 *Undergraduate researcher* | *Advisor: Dr. David Narváez (Virginia Tech)* | *Jun. 2022 - Present*  
@@ -38,6 +41,7 @@ Research Experience
 
 Teaching Experience
 ======
+___
 
 **Course Assistant, Multivariable Calculus (Math 215)**  
 *University of Michigan* | *Winter 2023*
