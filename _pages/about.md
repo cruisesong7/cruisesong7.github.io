@@ -31,10 +31,12 @@ While I am still exploring what is out there in the world of mathematics and com
   </figure>
 </div>
 
-Mathematical proofs are often complex, and ensuring their precision and logical soundness is a significant challenge. My research addresses this by applying powerful tools like proof assistants and SAT solvers to help formalize mathematics. This means creating machine-checkable proofs, which can enhance reliability and rigor in mathematical research. I believe that the formalization of mathematics will not only drive advancements in the math community but also expand the capabilities of formal methods as a whole..
+Mathematical proofs are often complex, and ensuring their precision and logical soundness is a significant challenge. My research addresses this by applying powerful tools like proof assistants and SAT solvers to help formalize mathematics. This means creating machine-checkable proofs, which can enhance reliability and rigor in mathematical research. The very same technique can be applied to ensure the correctness of critical softwares/ systems, or even AI (one day I beleive).
+
+More recently, I am working on combining Lean4 and SAT solvers. I am always happy to chat and collabrote :D
 
 News
 ======
 - My first publication [“Formalizing Finite Ramsey Theory in Lean 4”](https://link.springer.com/chapter/10.1007/978-3-031-66997-2_6) was accepted to [CICM 2024](https://cicm-conference.org/2024/cicm.php)!
-- I Attended the [Summer School on Formal Techniques](https://fm.csl.sri.com/SSFT24/), and I highly recommend my peers in this field to attend!
+- I Attended the [Summer School on Formal Techniques](https://fm.csl.sri.com/SSFT24/), and I highly recommend my peers interested in this field to attend!
 

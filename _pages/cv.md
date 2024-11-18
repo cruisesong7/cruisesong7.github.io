@@ -25,12 +25,12 @@ Research Experience
 ___
 
 **The Polymath Jr Program**  
-*Undergraduate researcher* | *Advisor: Dr. David Narváez (Virginia Tech)* | *Jun. 2022 - Present*  
+*Undergraduate researcher* | *Advisor: Dr. David Narváez (Virginia Tech)* | *Jun. 2022 - Jun. 2024*  
 - Acquired proficiency with interactive theorem proving using Lean 3 & Lean 4.
 - Designed and developed tactics to facilitate manipulation of sets in proofs.
 - Formalized exact values for several small Ramsey numbers and related van der Waerden numbers using interactive and automated theorem proving with SAT solvers.
 - Developed a graph widget in Lean that interactively visualizes the graphs used in proofs.
-- GitHub repository: [GitHub - cruisesong7/formal_proof](https://github.com/cruisesong7/formal_proof)
+- GitHub repository: [GitHub - cruisesong7/formal_ramsey](https://github.com/cruisesong7/formal_ramsey)
 
 **Michigan Aerospace and Robotics Verification Lab (MARVL)**   
 *Undergraduate researcher* | *Advisor: Prof. Jean-Baptiste Jeannin* | *Jul. 2023 - May 2024*  
