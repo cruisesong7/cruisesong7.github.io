@@ -31,7 +31,7 @@ While I am still exploring what is out there in the world of mathematics and com
   </figure>
 </div>
 
-Mathematical proofs are often complex, and ensuring their precision and logical soundness is a significant challenge. My research addresses this by applying powerful tools like proof assistants and SAT solvers to help formalize mathematics. This means creating machine-checkable proofs, which can enhance reliability and rigor in mathematical research. The very same technique can be applied to ensure the correctness of critical softwares/ systems, or even AI (one day I beleive).
+Mathematical proofs are often complex, and ensuring their logical soundness is a significant challenge. My research addresses this by applying powerful tools like proof assistants and SAT solvers to help formalize mathematics. This means creating machine-checkable proofs, which can enhance reliability and rigor in mathematical research. The very same technique can be applied to ensure the correctness of critical softwares/ systems, or AI (who knows).
 
 More recently, I am working on combining Lean4 and SAT solvers. I am always happy to chat and collabrote :D
 
