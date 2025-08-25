@@ -45,13 +45,11 @@ Teaching Experience
 ======
 ___
 
-**Teaching Assistant, CS4510 Automata and Complexity**  
+* Teaching Assistant, CS4510 Automata and Complexity
 *Georgia Tech* | *Spring 2025*
 
-**Course Assistant, Multivariable Calculus (Math 215)**  
+* Course Assistant, Math 215 Multivariable Calculus 
 *University of Michigan* | *Winter 2023*
-- Provided in-class guidance for students in an Inquiry-Based Learning (IBL) environment.
 
-**Tutor, Math Lab**  
+* Tutor, Math Lab
 *University of Michigan* | *Fall 2022 - Winter 2023*
-- Tutored undergraduate level math courses, mainly introductory mathematics courses from Calculus I to Differential Equations, occasionally helping with more advanced courses such as Real Analysis.
