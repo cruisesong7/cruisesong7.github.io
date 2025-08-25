@@ -37,7 +37,7 @@ One of my primary research interest is Ramsey theory, a cornerstone of extremal 
 
 News
 ======
-- I spent an amazing summer interning at [Imandra Inc.] (https://www.imandra.ai/about), where I collaborated closely with Dr. Grant Passmore on intergrating Imandra-geo into Lean to handle nonlinear real arithemtic. Watch out for our public release.
+- I spent an amazing summer interning at ["Imandra Inc."](https://www.imandra.ai/about), where I collaborated closely with Dr. Grant Passmore on intergrating Imandra-geo into Lean to handle nonlinear real arithemtic. Watch out for our public release.
 - My first publication [“Formalizing Finite Ramsey Theory in Lean 4”](https://link.springer.com/chapter/10.1007/978-3-031-66997-2_6) was accepted to [CICM 2024](https://cicm-conference.org/2024/cicm.php)!
 - I Attended the [Summer School on Formal Techniques](https://fm.csl.sri.com/SSFT24/), and I highly recommend my peers interested in this field to attend!
 
