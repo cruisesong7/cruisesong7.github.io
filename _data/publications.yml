@@ -1,7 +1,7 @@
 main:
 
   - title: "Just Draw It: Widgets for Generating and Visualizing Graph Structures in Lean 4"
-    authors: <strong>Cruise Song</strong>, Zhengyu (Brian) Li, Sage Binder, Vijay Ganesh
+    authors: <strong>C. Song</strong>, Z. Li, S. Binder, V. Ganesh
     conference_short: HATRA
     conference: Workshop on Human Aspects of Types and Reasoning Assistants <strong>(HATRA)</strong>, co-located with SPLASH/ISSTA, 2026.
     page: https://github.com/cruisesong7/LeanGraphMaker
