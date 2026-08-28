@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<article class="post">
+  <h2 style="margin-bottom:4px;">{{ page.title }}</h2>
+  <p><small>{{ page.date | date: "%B %-d, %Y" }}{% if page.tags %} &middot; {{ page.tags | join: ", " }}{% endif %}</small></p>
+
+  {{ content }}
+</article>
+
+<p style="margin-top:30px;"><a href="{{ '/blog/' | relative_url }}">&larr; Back to Blog</a></p>

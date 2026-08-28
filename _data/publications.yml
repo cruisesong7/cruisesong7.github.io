@@ -1,0 +1,19 @@
+main:
+
+  - title: "Just Draw It: Widgets for Generating and Visualizing Graph Structures in Lean 4"
+    authors: <strong>Cruise Song</strong>, Zhengyu (Brian) Li, Sage Binder, Vijay Ganesh
+    conference_short: HATRA
+    conference: Workshop on Human Aspects of Types and Reasoning Assistants <strong>(HATRA)</strong>, co-located with SPLASH/ISSTA, 2026.
+    page: https://github.com/cruisesong7/LeanGraphMaker
+
+  - title: "ProofBridge: Auto-Formalization of Natural Language Proofs in Lean via Joint Embeddings"
+    authors: P. Jana, K. Kale, E. Tanrıverdi, <strong>C. Song</strong>, S. Vishwanath, V. Ganesh
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2510.15681
+
+  - title: "Formalizing Finite Ramsey Theory in Lean 4"
+    authors: D. Narváez, <strong>C. Song</strong>, N. Zhang
+    conference_short: CICM
+    conference: International Conference on Intelligent Computer Mathematics <strong>(CICM)</strong>, 2024, pp. 91–108.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-66997-2_6
