@@ -53,6 +53,9 @@
         .site-nav a:hover { color: #3eb7f0; }
         .site-nav a.active { color: #eeeff0; border-bottom-color: #3eb7f0; }
       }
+      /* Let the quote inherit the page background/text so it stays readable in
+         both light and dark mode (the theme's blockquote hardcodes a white bg). */
+      blockquote { background: transparent; color: inherit; }
     </style>
 
   </head>
