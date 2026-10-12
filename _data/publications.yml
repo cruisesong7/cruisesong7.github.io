@@ -1,5 +1,11 @@
 main:
 
+  - title: "LeanVIPR: A Formally Verified Certificate Checker for Exact Mixed-Integer Programming"
+    authors: <strong>C. Song</strong>, H. Duong, T. Nguyen, V. Ganesh
+    conference_short: NeurIPS Workshop
+    conference: NeurIPS Workshop on AI for Verifiable Coding <strong>(VeriCodeGen)</strong>, 2026.
+    page: https://vericodegen.github.io/
+
   - title: "Just Draw It: Widgets for Generating and Visualizing Graph Structures in Lean 4"
     authors: <strong>C. Song</strong>, Z. Li, S. Binder, V. Ganesh
     conference_short: HATRA

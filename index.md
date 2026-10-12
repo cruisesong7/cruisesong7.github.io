@@ -28,6 +28,7 @@ More recently, I have become interested in the verification of parsers and compi
 
 ## News
 
+- **[2026]** Our paper “LeanVIPR: A Formally Verified Certificate Checker for Exact Mixed-Integer Programming” was accepted to the [NeurIPS 2026 Workshop on AI for Verifiable Coding (VeriCodeGen)](https://vericodegen.github.io/).
 - **[2026]** Our paper [“Just Draw It: Widgets for Generating and Visualizing Graph Structures in Lean 4”](https://conf.researchr.org/home/splash-issta-2026/hatra-2026) was accepted to [HATRA 2026](https://conf.researchr.org/home/splash-issta-2026/hatra-2026), co-located with SPLASH/ISSTA 2026.
 - **[2026]** I interned at the [Amazon Automated Reasoning group (Verified Permissions)](https://aws.amazon.com/verified-permissions/) as an Applied Scientist Intern, where I am grateful to work with [Dr. Liana Hadarean](https://scholar.google.com/citations?user=MocRuzIAAAAJ&hl=en) on verifying Cedar parsers in Lean.
 - **[2025]** I spent an amazing summer interning at [Imandra](https://www.imandra.ai/about), collaborating closely with [Dr. Grant Passmore](https://scholar.google.com/citations?user=7aGYQF8AAAAJ&hl=en) on integrating Imandra-geo into Lean to handle nonlinear real arithmetic.
